@@ -12,4 +12,4 @@ All demos write to an output file so that you may see the configuration with all
 | 03 | Overrides | Shows how to configure defaults and overrides. |
 | 04 | Inheritance | Demonstrates how to inherit properties from another section. |
 | 05 | Expansion | Demonstrates a number of different expansion methods using property variation. |
-| 06 | Expansion Two | Combines inheritance from multiple source sections with property variation. |
+| 06 | Expansion Shapes | Combines inheritance from multiple source sections with property variation. |

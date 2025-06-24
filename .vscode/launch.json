@@ -50,7 +50,7 @@
             "justMyCode": false
         },
         {
-            "name": "06 Expansion Two",
+            "name": "06 Expansion Shapes",
             "type": "debugpy",
             "request": "launch",
             "program": "expansion2.py",
