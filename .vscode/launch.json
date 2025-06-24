@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "01 Localization",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "localization.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/localization",
+            "justMyCode": false
+        },
+        {
+            "name": "02 Parameters",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "parameters.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/parameters",
+            "justMyCode": false
+        },
+        {
+            "name": "03 Overrides",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "overrides.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/overrides",
+            "justMyCode": false
+        },
+        {
+            "name": "04 Inheritance",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "inheritance.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/inheritance",
+            "justMyCode": false
+        },
+        {
+            "name": "05 Expansion",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "expansion.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/expansion",
+            "justMyCode": false
+        },
+        {
+            "name": "06 Expansion Two",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "expansion2.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/expansion2",
+            "justMyCode": false
+        }
+    ]
+}
