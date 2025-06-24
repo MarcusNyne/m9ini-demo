@@ -7,6 +7,7 @@ Install the virtual environment for this project using "install_windows.bat".
 All demos write to an output file so that you may see the configuration with all properties resolved.
 
 | Id | Demo | Description |
+| --- | --- | --- |
 | 01 | Localization | Shows how to use basic substitution syntax, including random selection. |
 | 02 | Parameters | Shows how to provide parameters when loading a configuration. |
 | 03 | Overrides | Shows how to configure defaults and overrides. |
